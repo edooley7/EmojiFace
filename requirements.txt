@@ -3,5 +3,5 @@ matplotlib
 DataSpyre
 tweepy
 cnfg
-pattern.es
+pattern
 goslate
