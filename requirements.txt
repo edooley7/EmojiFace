@@ -1,0 +1,5 @@
+pandas
+matplotlib
+DataSpyre
+tweepy
+cnfg
