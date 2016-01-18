@@ -3,3 +3,7 @@ matplotlib
 DataSpyre
 tweepy
 cnfg
+re
+os
+pattern.es
+goslate
