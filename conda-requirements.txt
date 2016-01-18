@@ -1,4 +1,0 @@
-numpy
-cnfg
-os
-re
