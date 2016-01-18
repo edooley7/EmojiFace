@@ -8,7 +8,7 @@ import numpy as np
 import cnfg
 import matplotlib.pyplot as plt
 import os
-import pattern
+import pattern.es
 import goslate
 
 pd.options.display.max_colwidth = 0
