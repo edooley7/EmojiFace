@@ -8,7 +8,7 @@ import numpy as np
 import cnfg
 import matplotlib.pyplot as plt
 import os
-import pattern.es
+import pattern
 import goslate
 
 pd.options.display.max_colwidth = 0
@@ -163,4 +163,4 @@ class EmojiApp(server.App):
 
 if __name__ == '__main__':
     app = EmojiApp()
-    app.launch(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)), debug = True)
+    app.launch(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
