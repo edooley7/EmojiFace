@@ -3,6 +3,5 @@ matplotlib
 DataSpyre
 tweepy
 cnfg
-os
 pattern.es
 goslate
